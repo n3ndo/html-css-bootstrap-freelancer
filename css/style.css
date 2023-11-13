@@ -33,10 +33,16 @@ header{
 .padding-5{
     padding: 5px;
 }
+.padding-0-5{
+    padding: 0px 5px;
+}
 .padding-0-10{
     padding: 0px 10px;
 }
 
+.font-size-13{
+    font-size: 13px;
+}
 /* star between line black*/
 h1 {
     font-family: sans-serif;
@@ -53,7 +59,7 @@ h1 {
     width: 100px;
     height: 3px;
     background: black;
-    left: 130px;
+    left: 165px;
     top: 50%;
     position: absolute;
   }
@@ -63,7 +69,7 @@ h1 {
     width: 100px;
     height: 3px;
     background: black;
-    right: 130px;
+    right: 165px;
     top: 50%;
     position: absolute;
   }
@@ -84,7 +90,7 @@ h1 {
     width: 100px;
     height: 3px;
     background: white;
-    left: 130px;
+    left: 165px;
     top: 50%;
     position: absolute;
   }
@@ -94,7 +100,7 @@ h1 {
     width: 100px;
     height: 3px;
     background: white;
-    right: 130px;
+    right: 165px;
     top: 50%;
     position: absolute;
   }
